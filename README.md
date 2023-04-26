@@ -1,6 +1,10 @@
 ## • Samuel R Souza, professor e amante da tecnologia!
 
-
+<div align="center">
+  <a href="https://github.com/samuelsouzzza">
+ 
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouzzza&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <hr>
 <div align="center"style="display: inline_block"><br>
   <code><img align="center" alt="Sam-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
