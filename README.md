@@ -1,4 +1,4 @@
-## • Samuel R Souza, professor e amante da tecnologia!
+## • Samuel R Souza, amante da tecnologia!
 
 <div align="center">
   <a href="https://github.com/samuelsouzzza">
