@@ -1,10 +1,16 @@
 ## • Samuel R Souza, amante da tecnologia!
 
 <div align="center">
+ 
+
   <a href="https://github.com/samuelsouzzza">
  
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouzzza&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
+ <div align="center">
+  <img src="https://www.codewars.com/users/samuelsouzzza/badges/large"/>
+  </div>
 <hr>
 <div align="center"style="display: inline_block"><br>
    <code><img align="center" alt="Sam-JS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code> 
