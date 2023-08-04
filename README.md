@@ -46,9 +46,10 @@
 <hr>
 
 <section align="center"> 
-<a href="https://www.linkedin.com/in/samuel-r-souza-1111b619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://open.spotify.com/user/31hetwqqeif5ssjj5rojvaul6tbe?si=534f7ada26f94695" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/samuel.souzzza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:rssamuel17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/samuel-r-souza-1111b619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://open.spotify.com/user/31hetwqqeif5ssjj5rojvaul6tbe?si=534f7ada26f94695" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/samuel.souzzza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 
 </section>
 <hr>
