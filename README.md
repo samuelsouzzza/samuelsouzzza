@@ -1,5 +1,13 @@
 ## • Samuel R Souza, amante da tecnologia!
 
+<!-- Card de apresentação -->
+<article>
+    <p>Formado pela Etec de Registro e graduando pela Fatec no curso de Desenvolvimento de Software Multiplataforma. Busco estudar as tecnologias mais atuais do mercado focando em front-end e serviços em nuvem como ReactJS, Typescript, NextJS, Python, MySQL, Google Cloud e AWS.
+
+Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entregando o meu melhor tanto nos projetos quanto na convivência do dia a dia.</p>
+
+</article>
+
 <!-- Card de estatísticas -->
 <section align="center">
   <a href="https://github.com/samuelsouzzza">
@@ -7,13 +15,15 @@
 </section>
 
 <br>
+<h3 align="center">Meu desempenho na CodeWars:</h3>
 <!-- Badge CodeWars -->
 <section align="center">
     <img src="https://www.codewars.com/users/samuelsouzzza/badges/large"/>
 </section>
 
-<hr><br>
-
+<br>
+<h3 align="center">As tecnologias que estudo:</h3>
+<!-- Seção de tecnologias -->
 <section align="center" style="display: inline_block">
     <!-- REACT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,8 +53,8 @@
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </section>
 
-<hr>
-
+<h3 align="center">Entre em contato:</h3>
+<!-- Sessão de contato -->
 <section align="center"> 
     <a href="mailto:rssamuel17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/samuel-r-souza-1111b619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -52,4 +62,3 @@
     <a href="https://www.instagram.com/samuel.souzzza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 
 </section>
-<hr>
