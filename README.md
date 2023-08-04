@@ -22,9 +22,9 @@
     <!-- JAVASCRIPT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <!-- HTML -->
-    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <!-- CSS -->
-    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <!-- SASS -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <!-- PYTHON -->
@@ -35,6 +35,10 @@
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <!-- GIT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <!-- GOOGLE CLOUD -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+    <!-- AWS -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
 </section>
 
   <hr>
