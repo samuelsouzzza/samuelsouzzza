@@ -1,4 +1,5 @@
-## • Samuel R Souza, amante da tecnologia!
+## Samuel R Souza | Front-end - Data & Analytics AWS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=33F74D&center=verdadeiro&vCenter=falso&multiline=true&repeat=falso&width=800&lines=Crie+um+c%C3%B3digo+e+ent%C3%A3o+n%C3%A3o+sentir%C3%A1+dor!)](https://git.io/typing-svg)
 
 <!-- Card de apresentação -->
 <article width="450">
