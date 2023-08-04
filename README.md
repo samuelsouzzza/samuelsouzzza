@@ -10,6 +10,7 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 </article>
 
 <!-- Card de estatísticas -->
+<h3 align="center">Linguagens que mais utilizo:</h3>
 <section align="center">
   <a href="https://github.com/samuelsouzzza">
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouzzza&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -24,7 +25,7 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 </section>
 
 <br>
-<h3 align="center">As tecnologias que estudo:</h3>
+<h3 align="center">As tecnologias que trabalho:</h3>
 <!-- Seção de tecnologias -->
 <section align="center" style="display: inline_block">
     <!-- REACT -->
