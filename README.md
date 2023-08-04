@@ -65,8 +65,4 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
     <!-- INSTAGRAM -->
     <a href="https://www.instagram.com/samuel.souzzza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </section>
-<div align="center">
-  <a href="https://open.spotify.com/user/31hetwqqeif5ssjj5rojvaul6tbe#_=_"><img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"></a>
-</div>
-
 </div>
