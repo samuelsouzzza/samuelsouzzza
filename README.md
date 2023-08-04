@@ -12,10 +12,17 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 <!-- Card de estatísticas -->
 <section align="center">
   <a href="https://github.com/samuelsouzzza">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouzzza&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouzzza&layout=compact&langs_count=7&theme=tokyonight"/>
+</section>
+      
+<br>
+<h3 align="center">Minhas badges:</h3>
+<section align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelsouzzza&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </section>
 
 <br>
+
 <h3 align="center">Meu desempenho na CodeWars:</h3>
 <!-- Badge CodeWars -->
 <section align="center">
