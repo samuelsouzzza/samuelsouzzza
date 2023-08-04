@@ -20,7 +20,7 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 
 <br>
 
-<h3 align="center">Meu desempenho na CodeWars:</h3>
+<h3 align="center">Minhas badges:</h3>
 <!-- Badge CodeWars -->
 <section align="center">
     <img src="https://www.codewars.com/users/samuelsouzzza/badges/large"/>
