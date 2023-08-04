@@ -1,7 +1,7 @@
 ## • Samuel R Souza, amante da tecnologia!
 
 <!-- Card de apresentação -->
-<article>
+<article width="450">
     <p>Formado pela Etec de Registro e graduando pela Fatec no curso de Desenvolvimento de Software Multiplataforma. Busco estudar as tecnologias mais atuais do mercado focando em front-end e serviços em nuvem como ReactJS, Typescript, NextJS, Python, MySQL, Google Cloud e AWS.
 
 Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entregando o meu melhor tanto nos projetos quanto na convivência do dia a dia.</p>
@@ -56,9 +56,13 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 <h3 align="center">Entre em contato:</h3>
 <!-- Sessão de contato -->
 <section align="center"> 
+    <!-- GMAIL -->
     <a href="mailto:rssamuel17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+    <!-- WHATSAPP -->
+    <a href="https://wa.me/13996976851" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1ED760?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
+    <!-- LINKEDIN -->
     <a href="https://www.linkedin.com/in/samuel-r-souza-1111b619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://open.spotify.com/user/31hetwqqeif5ssjj5rojvaul6tbe?si=534f7ada26f94695" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+    <!-- INSTAGRAM -->
     <a href="https://www.instagram.com/samuel.souzzza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 
 </section>
