@@ -28,7 +28,8 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 
 <h3 align="center">Certificações: </h3>
 <section align="center">
-    <img width="250" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/GOOGLE%20-%20Create%20And%20Manage%20Cloud%20Resources.png"/>
+    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20React.jpg"/>
+    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/GOOGLE%20-%20Create%20And%20Manage%20Cloud%20Resources.png"/>
 </section>
 
 <br>
