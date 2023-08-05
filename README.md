@@ -12,7 +12,7 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 </article>
 
 <!-- Card de estatísticas -->
-<h3 align="center">Linguagens que mais utilizo:</h3>
+<h3 align="center">...Linguagens...</h3>
 <section align="center">
   <a href="https://github.com/samuelsouzzza">
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouzzza&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -20,15 +20,7 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 
 <br>
 
-<h3 align="center">Certificações: </h3>
-<section align="center">
-    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/GOOGLE%20-%20Create%20And%20Manage%20Cloud%20Resources.png"/>
-    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20React.jpg"/>
-    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20Javascript%20ES6%2B.jpg"/>
-</section>
-
-<br>
-<h3 align="center">As tecnologias que trabalho:</h3>
+<h3 align="center">...Tecnologias...</h3>
 <!-- Seção de tecnologias -->
 <section align="center" style="display: inline_block">
     <!-- REACT -->
@@ -59,13 +51,20 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </section>
 
-<h3 align="center">Minhas badges:</h3>
+<h3 align="center">...Badges...</h3>
 <!-- Badge CodeWars -->
 <section align="center">
     <img src="https://www.codewars.com/users/samuelsouzzza/badges/large"/>
 </section>
 
-<h3 align="center">Entre em contato:</h3>
+<h3 align="center" valign="center">...Certificados...</h3>
+<section align="center">
+    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/GOOGLE%20-%20Create%20And%20Manage%20Cloud%20Resources.png"/> &nbsp
+    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20React.jpg"/> &nbsp
+    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20Javascript%20ES6%2B.jpg"/>
+</section>
+
+<h3 align="center">...Contato...</h3>
 <!-- Sessão de contato -->
 <section align="center"> 
     <!-- GMAIL -->
