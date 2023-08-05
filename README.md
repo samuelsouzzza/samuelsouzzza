@@ -24,6 +24,7 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entr
 <section align="center">
     <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/GOOGLE%20-%20Create%20And%20Manage%20Cloud%20Resources.png"/>
     <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20React.jpg"/>
+    <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20Javascript%20ES6%2B.jpg"/>
 </section>
 
 <br>
