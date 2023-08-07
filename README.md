@@ -7,7 +7,7 @@
 <article width="450">
     <p>Formado pela Etec de Registro e graduando pela Fatec no curso de Desenvolvimento de Software Multiplataforma. Busco estudar as tecnologias mais atuais do mercado focando em front-end e serviços em nuvem como ReactJS, Typescript, NextJS, Python, MySQL, Google Cloud e AWS.
 
-Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei entregando o meu melhor tanto nos projetos quanto na convivência do dia a dia.</p>
+Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e entregando o meu melhor tanto nos projetos quanto na convivência do dia a dia.</p>
 
 </article>
 
