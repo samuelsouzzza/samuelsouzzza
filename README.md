@@ -39,6 +39,8 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <!-- MYSQL -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <!-- MYSQL -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <!-- MONGODB -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <!-- DOCKER -->
