@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e0bd0&%20height=120&section=header"/>
 
-## Samuel R Souza | Front-end - Data & Analytics AWS
+## Samuel R Souza | FullStack - Data & Analytics AWS
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=1e0bd0&center=verdadeiro&vCenter=falso&multiline=true&repeat=falso&width=800&lines=Crie+um+c%C3%B3digo+e+ent%C3%A3o+n%C3%A3o+sentir%C3%A1+dor!)](https://git.io/typing-svg)
 
 <!-- Card de apresentação -->
