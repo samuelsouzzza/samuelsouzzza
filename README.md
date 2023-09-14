@@ -60,13 +60,14 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
 <section align="center">
     <img src="https://www.codewars.com/users/samuelsouzzza/badges/large"/>
 </section>
-
+<!--
 <h3 align="center" valign="center">...Certificados...</h3>
 <section align="center">
     <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20React%20com%20Typescript.jpeg"/> &nbsp
     <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/GOOGLE%20-%20Perform%20Foundational%20Data%2C%20ML%2C%20and%20AI%20Tasks%20in%20Google%20Cloud%20(1).png"/> &nbsp
     <img width="250" height="160" src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/ORIGAMID%20-%20Javascript%20ES6%2B.jpg"/>
 </section>
+-->
 
 <h3 align="center">...Contato...</h3>
 <!-- Sessão de contato -->
