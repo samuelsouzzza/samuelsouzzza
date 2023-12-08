@@ -5,7 +5,7 @@
 
 <!-- Card de apresentação -->
 <article width="450">
-    <p>Formado pela Etec de Registro e graduando pela Fatec no curso de Desenvolvimento de Software Multiplataforma. Busco estudar as tecnologias mais atuais do mercado focando em front-end e serviços em nuvem como ReactJS, Typescript, NextJS, Python, MySQL, Google Cloud e AWS.
+    <p>Formado pela Etec de Registro e graduando pela Fatec de Registro no curso de Desenvolvimento de Software Multiplataforma, busco estudar as tecnologias mais atuais do mercado focando em front-end como ReactJS, React Native, Typescript, NextJS, MySQL, NodeJS e Google Cloud.
 
 Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e entregando o meu melhor tanto nos projetos quanto na convivência do dia a dia.</p>
 
@@ -25,6 +25,8 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
 <section align="center" style="display: inline_block">
     <!-- REACT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <!-- NODE -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <!-- TYPESCRIPT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <!-- JAVASCRIPT -->
@@ -35,24 +37,18 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <!-- SASS -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <!-- PYTHON -->
-    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <!-- MYSQL -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <!-- MYSQL -->
+    <!-- POSTGRE -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <!-- MONGODB -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <!-- DOCKER -->
-    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <!-- GOOGLE CLOUD -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-    <!-- AWS -->
-    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
     <!-- GIT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <!-- LINUX -->
-    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <!-- FIGMA -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </section>
 
 <h3 align="center">...Badges...</h3>
@@ -77,7 +73,7 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
     <!-- WHATSAPP -->
     <a href="https://wa.me/13996976851" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1ED760?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
     <!-- LINKEDIN -->
-    <a href="https://www.linkedin.com/in/samuel-r-souza-1111b619a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/samuelsouzzza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <!-- INSTAGRAM -->
     <a href="https://www.instagram.com/samuel.souzzza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </section>
