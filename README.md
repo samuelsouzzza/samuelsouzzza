@@ -23,6 +23,8 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
 <h3 align="center">...Tecnologias...</h3>
 <!-- Seção de tecnologias -->
 <section align="center" style="display: inline_block">
+    <!-- NEXT -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <!-- REACT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <!-- NODE -->
