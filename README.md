@@ -55,8 +55,11 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
 
 <h3 align="center">...Badges...</h3>
 <!-- Badge CodeWars -->
-<section align="center">
+<section align="center" style="display: flex; flex-direction: column;">
     <img src="https://www.codewars.com/users/samuelsouzzza/badges/large"/>
+</section>
+<section align="center" style="display: flex; flex-direction: column;">
+    <img src="https://raw.githubusercontent.com/samuelsouzzza/samuelsouzzza/main/certificados/one-badge01.png" style="width: 200px"/>
 </section>
 <!--
 <h3 align="center" valign="center">...Certificados...</h3>
