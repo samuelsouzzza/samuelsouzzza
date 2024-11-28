@@ -45,12 +45,16 @@ Sempre em busca de novos desafios e oportunidades de mostrar tudo o que sei e en
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <!-- MONGODB -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <!-- DOCKER -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <!-- GOOGLE CLOUD -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
     <!-- GIT -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <!-- FIGMA -->
     <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <!-- FIGMA -->
+    <img align="center" alt="samuesouzzza-hardskill" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </section>
 
 <h3 align="center">...Badges...</h3>
